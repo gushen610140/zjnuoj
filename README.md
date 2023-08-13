@@ -34,7 +34,8 @@ $\frac{\partial f}{\partial x} = 2\sqrt{a}x$
 |原神|启动!|
 
 ---
-
+### 迷你日记
+- 2023.8.13 今天被Visual Studio坑了，他那个EOF的ctrl+Z要按三遍才算?!
 
 
 
