@@ -36,6 +36,7 @@ $\frac{\partial f}{\partial x} = 2\sqrt{a}x$
 ---
 ### 迷你日记
 - 2023.8.13 今天被Visual Studio坑了，他那个EOF的ctrl+Z要按三遍才算?!
+- 动态规划好难啊，这状态转移方程要怎么想才想得出来啊
 
 
 
